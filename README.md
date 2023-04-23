@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-un repositorio de prueba para Henry
+este proyecto es una prueba para probar como clonar un repositario y generar cambios
